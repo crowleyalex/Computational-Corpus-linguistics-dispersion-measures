@@ -1,0 +1,42 @@
+Apple has been charged with breaking EU competition rules over the way it runs its App Store.
+
+European Commission anti-trust regulator Margrethe Vestager tweeted that "consumers are losing out".
+
+It relates to charges brought two years ago by music streaming app Spotify which claimed that Apple was stifling innovation in that industry.
+
+Apple faces a large fine and may be forced to change its policies if its arguments do not convince regulators.
+
+Previously it has denied any wrong-doing.
+
+The case is looking specifically at how its App Store policies affect music streaming. The charge was initially filed in 2019 by co-founder of Spotify Daniel Ek, who said that Apple was "limiting choice and stifling innovation".
+
+"Apple's rules distort competition in the market for music streaming by raising the costs of competing music streaming app developers. This in turn leads to higher prices for consumers for their in-app music subscriptions on iOS devices," an EC statement said.
+
+In response, Apple said it did not receive any commission on 99% of Spotify's subscribers.
+
+"At the core of this case is Spotify's demand they should be able to advertise alternative deals on their iOS app, a practice that no store in the world allows," it said in a statement.
+
+"Once again, they want all the benefits of the App Store but don't think they should have to pay anything for that. The Commission's argument on Spotify's behalf is the opposite of fair competition."
+
+Alexander Holland, chief content and strategy officer at music streaming platform Deezer said he was pleased with the Commission's findings.
+
+"It's an important step towards a fair competitive landscape where dominant market players like Apple have to compete with independent companies like Deezer on quality of service, innovation and consumer experience, rather than artificially created barriers and a lack of a level playing field."
+
+Earlier Ms Vestager tweeted that the preliminary conclusion of the EC was that "Apple was in breach of EU competition law" and "charges high commission fees on rivals in the App Store and forbids them to inform of alternatives".
+
+The BBC is not responsible for the content of external sites.
+View original tweet on Twitter
+EC and US regulators have a series of ongoing investigations into Apple's App Store including more widely considering whether the 30% commission it charges for in-app purchases is fair.
+
+Developers have become increasingly frustrated by the so-called Apple tax.
+
+Under pressure from both developers and regulators, Apple has cut its commission rate to 15% for any developer than earns less than £1m in annual revenue.
+
+A complaint was filed to the EC by e-commerce firm Rakuten in March 2020, alleging that it was anti-competitive to take a commission on e-books sold through the App Store while promoting its own Apple Books service. This case will be looked at separately.
+
+Epic v Apple
+Epic Games, the makers of Fortnite, also filed a similar complaint as part of an ongoing dispute with Apple over its 30% cut on in-app purchases.
+
+It led to Apple removing the game from its App Store.
+
+A court case between the two opens in the US next week and promises to reveal much about Apple's inner workings. It will see testimony from Apple chief executive Tim Cook and Epic chief Tim Sweeney.
